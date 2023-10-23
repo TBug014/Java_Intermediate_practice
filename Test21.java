@@ -1,7 +1,6 @@
 // Exceptions / these are runtime errors
 
 
-
 // runtime errors
 public class Test21 {
     public static void main(String[] args) {
