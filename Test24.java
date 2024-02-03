@@ -28,7 +28,6 @@ public class Test24 {
         }
 
         System.out.println(j);
-
     }
 }
 
